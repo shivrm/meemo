@@ -2,4 +2,4 @@ torch==2.7.0+xpu
 torchvision==0.22.0+xpu
 librosa==0.11.0
 openai-whisper @ git+https://github.com/openai/whisper.git@517a43ecd132a2089d85f4ebc044728a71d49f6e
-tdqm==4.67.1
+numpy==1.26.4
